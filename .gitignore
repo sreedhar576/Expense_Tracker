@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.tmp
+expenses.json
+*.csv
+.venv/
+venv/
+.idea/
+.vscode/
